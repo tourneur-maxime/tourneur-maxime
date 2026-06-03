@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">I build agentic systems and developer tools. Passionate about local AI, event-driven architectures, and interfaces that save time.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tourneur-maxime" alt="tourneur-maxime" /></a> </p>
-
 - 🔭 I'm currently working on [MaxOS](https://github.com/tourneur-maxime/max_ai_os)
 
 - 🌱 I'm currently learning **agentic AI systems and local LLM orchestration**
