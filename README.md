@@ -17,8 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://openai.com/fr-FR/codex/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" alt="codex" width="40" height="40"/> </a> 
     <a href="https://claude.ai/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" alt="claude" width="40" height="40"/> </a> 
+    <a href="https://openai.com/fr-FR/codex/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" alt="codex" width="40" height="40"/> </a> 
     <a href="https://ollama.com/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/ollama/default.svg" alt="ollama" width="40" height="40"/> </a> 
     <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/model-context-protocol/default.svg" alt="mcp" width="40" height="40"/> </a> 
     <a href="https://obsidian.md/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/obsidian/default.svg" alt="obsidian" width="40" height="40"/> </a> 
