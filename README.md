@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="text-decoration: none;"> 
+<p align="left"> 
     <a href="https://claude.ai/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" alt="claude" width="40" height="40"/> </a> 
     <a href="https://openai.com/fr-FR/codex/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" alt="codex" width="40" height="40"/> </a> 
     <a href="https://ollama.com/" target="_blank" rel="noreferrer" style="text-decoration: unset;"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/ollama/default.svg" alt="ollama" width="40" height="40"/> </a> 
