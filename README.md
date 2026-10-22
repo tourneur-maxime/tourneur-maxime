@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">I build agentic systems and developer tools. Passionate about local AI, event-driven architectures, and interfaces that save time.</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 - 🔭 I'm currently working on [MaxOS](https://github.com/tourneur-maxime/max_ai_os)
 
