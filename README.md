@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<ton-pseudo>/<ton-repo>/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ton-pseudo>/<ton-repo>/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tourneur-maxime/tourneur-maxime/output/github-snake.svg" />
-</picture>
 
 - 🔭 I'm currently working on [MaxOS](https://github.com/tourneur-maxime/max_ai_os)
 
